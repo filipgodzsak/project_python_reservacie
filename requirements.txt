@@ -1,0 +1,6 @@
+pandas
+sqlalchemy
+psycopg2-binary
+matplotlib
+reportlab
+python-dotenv
