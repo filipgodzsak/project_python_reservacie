@@ -1,0 +1,19 @@
+# secrets
+.env
+
+# outputs
+report_outputs/
+*.pdf
+*.png
+*.csv
+
+# python cache / venv
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
